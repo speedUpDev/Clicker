@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "Kroftsmann";
+    src: url("../fonts/Kroftsmann.ttf");
+}
+.boost_1{
+    background-color: #2eaeae;
+    font-family: "Kroftsmann", serif;
+}
+.boost_0 {
+    background-color: #224a3e;
+    font-family: "Kroftsmann", serif;
+    margin-top: 10px;
+    left: 10px;
+}
+.clicker{
+    width: 15%;
+    height: auto;
+    margin-left: 750px;
+    margin-right: auto;
+    position: absolute;
+    margin-top: 100px;
+    cursor: pointer;
+}
+.boosts{
+    float: right;
+    max-width: 700px;
+    overflow: hidden;
+    background-color: #76dec3;
+    border: black solid 3px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    font-family: "Kroftsmann", serif;
+    position: relative;
+}
+
+.rank{
+    width: 20%;
+    height: auto;
+    right: 100px;
+    float: left;
+    position: static;
+    max-width: 200px;
+}
+#coins{
+    position: absolute;
+    left: 860px;
+    top: 95px;
+    font-family: "Kroftsmann", serif;
+    font-size: 40px;
+}
+body{
+    background-image: url("https://images.hdqwalls.com/download/windows-xp-bliss-4k-lu-1920x1080.jpg");
+}
+
+.stats{
+    position: absolute;
+    left: 860px;
+    top: 800px;
+    border: black solid 3px;
+    background-color: #76dec3;
+    padding: 10px;
+    font-family: "Kroftsmann", serif;
+}
+#boosts_head{
+    font-size: 25px;
+}
+.nav{
+    font-family: "Kroftsmann", serif;
+     font-size: 25px;
+}
